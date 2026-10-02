@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-WormGPT Intrusion Pro v5.2
+
 Script de Scan et d'Exploitation de Profondeur
 Cible: Sites Web, Bases de Données, Fichiers Config, Utilisateurs
-Date: 2026-10-01
+
 """
 
 import requests
